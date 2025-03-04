@@ -8,7 +8,7 @@ Research Focus
 This study explores the detection and prevention of malicious drainers through various forensic and monitoring techniques. Unlike conventional malware research, this project emphasizes behavioral analysis, execution tracking, and sandboxing techniques to identify drainer-based threats in real-world applications. By dissecting how these drainers operate, this case study provides a layered defense approach to mitigate risks, making it a valuable resource for security professionals and organizations.
 
 Repository Structure
-File	                                            Purpose
+File	Purpose
 drainkey_nodejs_attack_simulation.js	            Simulates various attack scenarios to mimic real-world cyber threats.
 drainkey_nodejs_exfiltration_test.js	            Tests data exfiltration attempts for identifying vulnerabilities.
 drainkey_wallet_hooks.js	                        Monitors wallet interactions to detect unauthorized access.
